@@ -1,1 +1,2 @@
-print("Hello, cersion control!")
+print("Hello, version control!")
+print ("Git id tracking this file.")

@@ -1,2 +1,2 @@
 print("Hello, version control!")
-print ("Git id tracking this file.")
+print ("Git is tracking this file.")

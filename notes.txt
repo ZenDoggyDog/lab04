@@ -1,0 +1,2 @@
+My CITS1501 lab04 notes.
+Learning Git today.
